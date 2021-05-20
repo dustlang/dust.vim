@@ -1,4 +1,4 @@
-# rust.vim
+# dust.vim
 
 ## Description
 
